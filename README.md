@@ -1,5 +1,4 @@
-# Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
+# Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
 
